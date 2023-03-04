@@ -1,11 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "万有引力之虫",
-      "feedUrl": "https://gravitysworm.com/rss",
-      "siteUrl": "https://gravitysworm.com/",
-      "articles": []
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
