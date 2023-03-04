@@ -5,4 +5,4 @@
 
 cacheUrl: https://nanbowaner.github.io/osmosfeed/cache.json
 sources:
-  - href: https://gravitysworm.com/rss
+  - href: https://piped-api.hostux.net/feed/rss?authToken=2ab8711a-9f11-432c-961d-b5c7703baa5f
