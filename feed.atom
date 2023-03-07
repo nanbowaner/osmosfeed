@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nanbowaner.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T00:40:12.250Z</updated>
+    <updated>2023-03-07T00:42:31.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://nanbowaner.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://nanbowaner.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[被污名化的“妇女”，被淡化的“劳动”｜国际劳动妇女节]]></title>
+        <id>https://piped.hostux.net/watch?v=NH-CP022MuE</id>
+        <link href="https://piped.hostux.net/watch?v=NH-CP022MuE"/>
+        <updated>2023-03-06T08:45:01.000Z</updated>
+        <summary type="html"><![CDATA[An alternative privacy-friendly YouTube frontend which is efficient by design.]]></summary>
+        <author>
+            <name>Piped - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国式法治的本质是什么？怎样看待两办发文抵制宪政思想？【Eng Sub】What is the nature of Chinese rule of law?]]></title>
+        <id>https://piped.hostux.net/watch?v=_sR6-xX9N4U</id>
+        <link href="https://piped.hostux.net/watch?v=_sR6-xX9N4U"/>
+        <updated>2023-03-06T00:43:48.000Z</updated>
+        <summary type="html"><![CDATA[An alternative privacy-friendly YouTube frontend which is efficient by design.]]></summary>
+        <author>
+            <name>Piped - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【专访】香港免术换证之路——专访港人跨性别活动家Christine Chu]]></title>
         <id>https://piped.hostux.net/watch?v=VYLtEYw-Ifs</id>
